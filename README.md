@@ -2,76 +2,111 @@
 
 <img src="https://raw.githubusercontent.com/DevanshGupta099/DevanshGupta099/main/assets/header-banner.svg" width="100%"/>
 
+<br/>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E8B84B&center=true&vCenter=true&width=650&lines=Full-Stack+%26+AI%2FML+Developer;MCA+Student+%40+CHRIST+University+(2026-28);Building+with+React%2C+Node.js+%26+LLMs;Always+shipping+something+new+%F0%9F%9A%80" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1A2F6F&center=true&vCenter=true&width=650&lines=Full-Stack+%26+AI%2FML+Developer;MCA+Candidate+%40+CHRIST+University+(2026-28);Building+with+React%2C+Node.js+%26+LLMs;Always+shipping+something+new+%F0%9F%9A%80" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1A2F6F&center=true&vCenter=true&width=650&lines=Full-Stack+%26+AI%2FML+Developer;MCA+Candidate+%40+CHRIST+University+(2026-28);Building+with+React%2C+Node.js+%26+LLMs;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=650&lines=Full-Stack+%26+AI%2FML+Developer;MCA+Student+%40+CHRIST+University+(2026-28);Building+with+React%2C+Node.js+%26+LLMs;Always+shipping+something+new" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=650&lines=Full-Stack+%26+AI%2FML+Developer;MCA+Student+%40+CHRIST+University+(2026-28);Building+with+React%2C+Node.js+%26+LLMs;Always+shipping+something+new" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=650&lines=Full-Stack+%26+AI%2FML+Developer;MCA+Student+%40+CHRIST+University+(2026-28);Building+with+React%2C+Node.js+%26+LLMs;Always+shipping+something+new" alt="Typing SVG" />
 </picture>
 
-</div>
+<br/>
 
-&nbsp;
+<a href="mailto:devanshgupta092@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF6B35?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/devansh-gupta-8a0a5b293/"><img src="https://img.shields.io/badge/LinkedIn-F72585?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/DevanshGupta099"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://leetcode.com/u/_devanshgupta__/"><img src="https://img.shields.io/badge/LeetCode-7209B7?style=for-the-badge&logo=leetcode&logoColor=FF6B35" /></a>
 
-<div align="center">
-  <a href="mailto:devanshgupta092@gmail.com"><img src="https://img.shields.io/badge/Gmail-C49639?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/devansh-gupta-8a0a5b293/"><img src="https://img.shields.io/badge/LinkedIn-1A2F6F?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/DevanshGupta099"><img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/_devanshgupta__/"><img src="https://img.shields.io/badge/LeetCode-1A2F6F?style=for-the-badge&logo=leetcode&logoColor=C49639" /></a>
 </div>
 
 <br/>
 
-## 🧑‍💻 About Me
+<img src="https://raw.githubusercontent.com/DevanshGupta099/DevanshGupta099/main/assets/divider.svg" width="100%"/>
+
+## &nbsp;&nbsp;About Me
 
 <img align="right" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG9pbXdjOXJ1Y2FqZnQzZ2h1NjBlc252NmVycmhkdWhidDRwc3oxOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/FKmTJUdfv5U32KMsUF/giphy.gif" />
 
-- 🎓 Pursuing my **Master of Computer Applications** (Full Stack Development, Advanced Database Technology) at **CHRIST (Deemed to be University), Bengaluru** — Batch 2026–28
-- 💼 Currently a **Full Stack & AI/ML Developer Intern** at CHRIST University, building an ERP-style **Digital Evaluation System** with the MERN stack, PostgreSQL, Kafka, and Zitadel/Keycloak identity management
-- 🌐 Previously built and shipped **conquer.ae** in production as a Web Development Intern at Conquer Planetario Real Estate LLC
-- 🧠 I love building **GenAI features, multimodal pipelines, and computer vision models** with OpenAI/Anthropic LLMs, YOLO, and OpenCV
-- 🛠️ Recently built **VeritasSupply** — an AI-powered supply-chain risk intelligence platform with LLM-based data extraction and interactive graph visualization
-- 📜 IBM Full Stack Software Developer & Google Cybersecurity Specialization certified
-- ⚡ Fun fact: I once trained a YOLO model to help drones dodge obstacles in real time
+&nbsp;&nbsp;▸ &nbsp;Pursuing **Master of Computer Applications** (Full Stack Development, Advanced Database Technology) at **CHRIST University, Bengaluru** — Batch 2026–28
+
+&nbsp;&nbsp;▸ &nbsp;Currently a **Full Stack & AI/ML Developer Intern** at CHRIST University, building a Digital Evaluation System with the MERN stack, PostgreSQL, Kafka & Zitadel/Keycloak
+
+&nbsp;&nbsp;▸ &nbsp;Previously shipped **conquer.ae** in production as a Web Dev Intern at Conquer Planetario Real Estate LLC
+
+&nbsp;&nbsp;▸ &nbsp;Building **GenAI features, multimodal pipelines & computer vision models** with OpenAI/Anthropic LLMs, YOLO & OpenCV
+
+&nbsp;&nbsp;▸ &nbsp;Recently built **VeritasSupply** — AI-powered supply-chain risk intelligence with LLM-based data extraction & graph visualization
+
+&nbsp;&nbsp;▸ &nbsp;IBM Full Stack Software Developer & Google Cybersecurity certified
+
+&nbsp;&nbsp;▸ &nbsp;Fun fact: I once trained a YOLO model to help drones dodge obstacles in real time
 
 <br clear="right"/>
 
-## 🧰 Tools & Tech Stack
+<img src="https://raw.githubusercontent.com/DevanshGupta099/DevanshGupta099/main/assets/divider.svg" width="100%"/>
+
+## &nbsp;&nbsp;Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,php,html,css,react,nextjs,tailwind,nodejs,express,postgres,mysql,mongodb,docker,git,github,androidstudio,linux,figma&theme=dark" />
+#### Languages
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,php&theme=dark" />
+
+#### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" />
+
+#### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb&theme=dark" />
+
+#### DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,git,github,androidstudio,linux,figma&theme=dark" />
 
 </div>
 
 <br/>
 
-**Also working with:** Apache Kafka · Keycloak · Zitadel · Prisma ORM · Jest · React Testing Library · OpenAI & Anthropic APIs · YOLO · OpenCV · REST APIs
-
-<br/>
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DevanshGupta099/DevanshGupta099/main/images/userstats.svg" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevanshGupta099&theme=tokyonight&hide_border=true" />
+`Apache Kafka` · `Keycloak` · `Zitadel` · `Prisma ORM` · `Jest` · `React Testing Library` · `OpenAI & Anthropic APIs` · `YOLO` · `OpenCV` · `REST APIs`
 
 </div>
 
-## 💻 LeetCode Stats
+<br/>
+
+<img src="https://raw.githubusercontent.com/DevanshGupta099/DevanshGupta099/main/assets/divider.svg" width="100%"/>
+
+## &nbsp;&nbsp;GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DevanshGupta099&show_icons=true&hide_border=true&bg_color=35,0d1117,161b22&title_color=FF6B35&icon_color=F72585&text_color=E6EDF3&ring_color=FF6B35" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshGupta099&layout=compact&hide_border=true&bg_color=35,0d1117,161b22&title_color=FF6B35&text_color=E6EDF3" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=DevanshGupta099&hide_border=true&background=0d1117&ring=FF6B35&fire=F72585&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=FF6B35&sideLabels=8B949E&dates=8B949E&stroke=161b22" />
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/DevanshGupta099/DevanshGupta099/main/assets/divider.svg" width="100%"/>
+
+## &nbsp;&nbsp;LeetCode Stats
 
 <div align="center">
 
 <a href="https://leetcode.com/u/_devanshgupta__/">
-  <img src="https://leetcard.jacoblin.cool/_devanshgupta__?theme=dark&colors=0d1a42,1A2F6F,ffffff,C49639,C49639,E8B84B,8892b0,24397f&font=Poppins&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/_devanshgupta__?theme=dark&colors=0d1117,161b22,E6EDF3,FF6B35,F72585,7209B7,8B949E,560BAD&font=Fira+Code&ext=heatmap" />
 </a>
 
 </div>
 
-## 🐍 My Contribution Snake
+<br/>
+
+<img src="https://raw.githubusercontent.com/DevanshGupta099/DevanshGupta099/main/assets/divider.svg" width="100%"/>
+
+## &nbsp;&nbsp;Contribution Graph
 
 <div align="center">
 
@@ -83,8 +118,10 @@
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DevanshGupta099/DevanshGupta099/main/assets/footer-banner.svg"/>
+<img src="https://raw.githubusercontent.com/DevanshGupta099/DevanshGupta099/main/assets/footer-banner.svg" width="100%"/>
 
 </div>

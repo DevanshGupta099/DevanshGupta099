@@ -1,0 +1,43 @@
+<svg width="1200" height="30" viewBox="0 0 1200 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="divGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF6B35" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#FF6B35" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#F72585" stop-opacity="1"/>
+      <stop offset="80%" stop-color="#7209B7" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#7209B7" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="shimmerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.6"/>
+      <stop offset="55%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <animate attributeName="x1" values="-100%;100%" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0%;200%" dur="3s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="dotGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF6B35"/>
+      <stop offset="50%" stop-color="#F72585"/>
+      <stop offset="100%" stop-color="#7209B7"/>
+    </linearGradient>
+
+    <style>
+      @keyframes divPulse { 0%,100% { opacity: 0.4; } 50% { opacity: 1; } }
+      .div-dot { animation: divPulse 3s ease-in-out infinite; }
+    </style>
+  </defs>
+
+  <!-- Main gradient line -->
+  <rect x="100" y="14" width="1000" height="2" rx="1" fill="url(#divGrad)"/>
+
+  <!-- Shimmer overlay -->
+  <rect x="100" y="14" width="1000" height="2" rx="1" fill="url(#shimmerGrad)"/>
+
+  <!-- Center diamond -->
+  <g transform="translate(600, 15)" class="div-dot">
+    <rect x="-4" y="-4" width="8" height="8" rx="1" fill="url(#dotGrad)" transform="rotate(45)"/>
+  </g>
+</svg>
