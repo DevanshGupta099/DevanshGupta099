@@ -2,9 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1A2F6F&height=180&section=header&text=Hey%20There!%20👋&fontSize=45&fontColor=C49639&animation=fadeIn&fontAlignY=38&desc=I'm%20Devansh%20Gupta&descAlignY=58&descSize=20&descColor=ffffff" width="100%"/>
 
-<a href="https://git.io/typing-svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E8B84B&center=true&vCenter=true&width=650&lines=Full-Stack+%26+AI%2FML+Developer;MCA+Candidate+%40+CHRIST+University+(2026-28);Building+with+React%2C+Node.js+%26+LLMs;Always+shipping+something+new+%F0%9F%9A%80" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1A2F6F&center=true&vCenter=true&width=650&lines=Full-Stack+%26+AI%2FML+Developer;MCA+Candidate+%40+CHRIST+University+(2026-28);Building+with+React%2C+Node.js+%26+LLMs;Always+shipping+something+new+%F0%9F%9A%80" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1A2F6F&center=true&vCenter=true&width=650&lines=Full-Stack+%26+AI%2FML+Developer;MCA+Candidate+%40+CHRIST+University+(2026-28);Building+with+React%2C+Node.js+%26+LLMs;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+</picture>
 
 </div>
 
