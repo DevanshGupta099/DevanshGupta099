@@ -16,6 +16,7 @@
   <a href="mailto:devanshgupta092@gmail.com"><img src="https://img.shields.io/badge/Gmail-C49639?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/devansh-gupta-8a0a5b293/"><img src="https://img.shields.io/badge/LinkedIn-1A2F6F?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/DevanshGupta099"><img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/_devanshgupta__/"><img src="https://img.shields.io/badge/LeetCode-1A2F6F?style=for-the-badge&logo=leetcode&logoColor=C49639" /></a>
 </div>
 
 <br/>
@@ -57,6 +58,16 @@
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevanshGupta099&theme=tokyonight&hide_border=true" />
+
+</div>
+
+## 💻 LeetCode Stats
+
+<div align="center">
+
+<a href="https://leetcode.com/u/_devanshgupta__/">
+  <img src="https://leetcard.jacoblin.cool/_devanshgupta__?theme=dark&colors=0d1a42,1A2F6F,ffffff,C49639,C49639,E8B84B,8892b0,24397f&font=Poppins&ext=heatmap" />
+</a>
 
 </div>
 
