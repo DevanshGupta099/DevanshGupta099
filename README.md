@@ -79,8 +79,7 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DevanshGupta099&show_icons=true&hide_border=true&bg_color=35,0d1117,161b22&title_color=FF6B35&icon_color=F72585&text_color=E6EDF3&ring_color=FF6B35" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshGupta099&layout=compact&hide_border=true&bg_color=35,0d1117,161b22&title_color=FF6B35&text_color=E6EDF3" />
+<img src="https://raw.githubusercontent.com/DevanshGupta099/DevanshGupta099/main/images/userstats.svg" />
 
 <br/>
 
