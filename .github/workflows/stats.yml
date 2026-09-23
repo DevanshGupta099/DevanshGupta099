@@ -1,0 +1,24 @@
+name: Generate GitHub Stats Card
+on:
+  schedule:
+    - cron: "0 3 * * *"   # once a day at 3am UTC
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write            # lets the action commit the generated image back to this repo
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate the user stats image
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: images/userstats.svg
+          include-title: false
+          colors: '#0d1a42 #1A2F6F #C49639 #C49639 #ffffff'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
