@@ -25,5 +25,26 @@ jobs:
           category-order: repositories, contributions, languages
           animated-language-chart: true
           language-animation-speed: 14
+          commit-and-push: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push (with retry on race conditions)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          for i in 1 2 3 4 5; do
+            git add images/userstats.svg
+            if git diff --cached --quiet; then
+              echo "No changes to commit."
+              break
+            fi
+            git commit -m "Update GitHub stats card"
+            git pull --rebase origin main
+            if git push origin main; then
+              echo "Pushed successfully."
+              break
+            fi
+            echo "Push rejected, retrying ($i)..."
+            sleep 5
+          done
