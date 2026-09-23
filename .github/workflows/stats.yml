@@ -20,5 +20,10 @@ jobs:
           image-file: images/userstats.svg
           include-title: false
           colors: '#0d1a42 #1A2F6F #C49639 #C49639 #ffffff'
+          border-radius: 16
+          hide-keys: joined, mostForked, followers, following, sponsors, sponsoring
+          category-order: repositories, contributions, languages
+          animated-language-chart: true
+          language-animation-speed: 14
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
