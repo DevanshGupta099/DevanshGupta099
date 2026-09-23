@@ -77,17 +77,37 @@
 
 ## &nbsp;&nbsp;GitHub Stats
 
+<br/>
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DevanshGupta099/DevanshGupta099/main/images/userstats.svg" />
+<img width="390" src="https://raw.githubusercontent.com/DevanshGupta099/DevanshGupta099/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
 
 <br/>
 
+<img width="390" src="https://raw.githubusercontent.com/DevanshGupta099/DevanshGupta099/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+<img width="390" src="https://raw.githubusercontent.com/DevanshGupta099/DevanshGupta099/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+
+<br/>
+
+<img width="390" src="https://raw.githubusercontent.com/DevanshGupta099/DevanshGupta099/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+<img width="390" src="https://raw.githubusercontent.com/DevanshGupta099/DevanshGupta099/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
+
+<br/><br/>
+
 <img src="https://streak-stats.demolab.com/?user=DevanshGupta099&hide_border=true&background=0d1117&ring=FF6B35&fire=F72585&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=FF6B35&sideLabels=8B949E&dates=8B949E&stroke=161b22" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevanshGupta099&bg_color=0d1117&color=E6EDF3&line=F72585&point=FF6B35&area=true&area_color=7209B7&hide_border=true" width="95%"/>
 
 </div>
 
 <br/>
+
+<div align="center">
+<img width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHB6d2d5OWdqZnl1bnQ5eXA5YndjeGEyZWlkNHRyeGF3M3d4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+</div>
 
 <img src="https://raw.githubusercontent.com/DevanshGupta099/DevanshGupta099/main/assets/divider.svg" width="100%"/>
 
