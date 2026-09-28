@@ -57,11 +57,7 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,python,java,php,html,css,react,nextjs,tailwind,nodejs,express,postgres,mysql,mongodb,docker,git,github,androidstudio,linux,figma&perline=11&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,python,java,php,html,css,react,nextjs,tailwind,nodejs,express,postgres,mysql,mongodb,docker,git,github,androidstudio,linux,figma&perline=11&theme=light" />
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,html,css,react,nextjs,tailwind,nodejs,express,postgres,mysql,mongodb,docker,git,github,androidstudio,linux,figma&perline=11&theme=dark" alt="Tech Stack" />
-</picture>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,php,html,css,react,nextjs,tailwind,nodejs,express,postgres,mysql,mongodb,docker,git,github,androidstudio,linux,figma&perline=11" alt="Tech Stack" />
 
 </div>
 
