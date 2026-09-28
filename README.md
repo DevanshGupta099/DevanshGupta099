@@ -1,6 +1,14 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DevanshGupta099/DevanshGupta099/main/assets/header-banner.svg" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.png" />
+  <img src="./assets/header-dark.png" width="100%" alt="Devansh Gupta Banner" />
+</picture>
+
+<br/><br/>
+
+<h1 align="center">Devansh Gupta</h1>
 
 <br/>
 
@@ -49,17 +57,11 @@
 
 <div align="center">
 
-#### Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,php&theme=dark" />
-
-#### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" />
-
-#### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb&theme=dark" />
-
-#### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,git,github,androidstudio,linux,figma&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,python,java,php,html,css,react,nextjs,tailwind,nodejs,express,postgres,mysql,mongodb,docker,git,github,androidstudio,linux,figma&perline=11&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,python,java,php,html,css,react,nextjs,tailwind,nodejs,express,postgres,mysql,mongodb,docker,git,github,androidstudio,linux,figma&perline=11&theme=light" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,html,css,react,nextjs,tailwind,nodejs,express,postgres,mysql,mongodb,docker,git,github,androidstudio,linux,figma&perline=11&theme=dark" alt="Tech Stack" />
+</picture>
 
 </div>
 
@@ -67,7 +69,17 @@
 
 <div align="center">
 
-`Apache Kafka` · `Keycloak` · `Zitadel` · `Prisma ORM` · `Jest` · `React Testing Library` · `OpenAI & Anthropic APIs` · `YOLO` · `OpenCV` · `REST APIs`
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Keycloak-EE0000?style=for-the-badge&logo=keycloak&logoColor=white" />
+<img src="https://img.shields.io/badge/Zitadel-4B32C3?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+<img src="https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLOv8-FF6B35?style=for-the-badge&logo=yolo&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=postman&logoColor=white" />
 
 </div>
 
@@ -137,6 +149,10 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DevanshGupta099/DevanshGupta099/main/assets/footer-banner.svg" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.png" />
+  <img src="./assets/footer-dark.png" width="100%" alt="Footer Banner" />
+</picture>
 
 </div>
